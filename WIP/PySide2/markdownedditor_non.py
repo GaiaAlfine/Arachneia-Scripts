@@ -1,5 +1,5 @@
-from PySide2.QtWidgets import (QPushButton, QFileDialog, QVBoxLayout, QWidget, QLabel, QHBoxLayout, QTextEdit, QApplication, QScrollBar)
-from PySide2.QtCore import Qt, Slot
+from PyQt5.QtWidgets import (QPushButton, QFileDialog, QVBoxLayout, QWidget, QLabel, QHBoxLayout, QTextEdit, QApplication, QScrollBar)
+from PyQt5.QtCore import Qt, Slot
 import markdown
 import sys
 
